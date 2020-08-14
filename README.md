@@ -1,2 +1,3 @@
 # PublicBinary
-It's a repository used for storing codes!It's full of the junk codes.
+It's a repository used for storing codes!.
+Some codes wrote by me will store in it.
